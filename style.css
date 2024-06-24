@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background: #111;
+}
+
+#string {
+    justify-content: center;
+    margin: 200px auto;
+    /* border-radius: 7px; */
+    svg {
+        width: 100%;
+        height: 100%;
+    }
+}
